@@ -1,0 +1,20 @@
+{
+ 	"plugins": ["build", "download-pdf-link","accordion","language-picker", "-sharing", "splitter", "-lunr", "-search", "search-plus", "offline", "back-to-top-button", "insert-logo"],
+ 	"pluginsConfig": {
+        "theme-default": {
+            "showLevel": false
+        },
+ 		"insert-logo": {
+ 			"url": "./logo.png" },
+        "download-pdf-link": {
+            "base": "./",
+            "label": {
+                "en": "Download PDF",
+                "fr": "Télécharger en PDF"
+            },
+            "multilingual": true
+        }},
+ 	"styles": {
+ 		"website": "styles/website.css"
+ 	}
+ }
