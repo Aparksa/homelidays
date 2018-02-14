@@ -7,4 +7,7 @@
      * [Pool](description.md#the-pool)
      * [Terrace](description.md#the-terrace)
  * [Instructions](instructions.md)
-
+ * [Notices](notices.md)
+ * [Conseils](conseils.md)
+ * [Aux alentours](environs.md)
+ * [Inventaire](inventaire.md)
