@@ -7,7 +7,7 @@
  		"insert-logo": {
  			"url": "./logo.png" },
         "download-pdf-link": {
-            "base": "https://www.gitbook.com/book/aparksa/home-li-days/",
+            "base": "https://www.gitbook.com/book/aparksa/home-li-days",
             "label": {
                 "en": "Download PDF",
                 "fr": "Télécharger en PDF"
