@@ -5,10 +5,10 @@ body, .book .book-header, .book .book-summary, .book .book-body {
 }
 
 /* Colors near of "graphical chart" of Poppy Project */
-.markdown-section * {
+/* .markdown-section * {
   /* black poppy */
-  color: #0a0a0a;
-}
+/*  color: #0a0a0a;*/
+/* } */
 .markdown-section h1 {
   color: #73bbba;
 }
@@ -106,7 +106,7 @@ blockquote.alert p a {
 
 /** Disable font settings plugin in the top header **/
 .font-settings {
-  display: none;
+  display: visible;
 }
 
 
