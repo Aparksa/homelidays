@@ -1,7 +1,14 @@
 {
  	"title": "Homelidays",
-    "plugins": ["expandable-chapters-interactive","build", "gist", "download-pdf-link","accordion","language-picker", "-sharing", "splitter", "-lunr", "-search", "search-plus", "offline", "back-to-top-button", "insert-logo"],
+    "plugins": ["page-footer-ex","expandable-chapters-interactive","build", "gist", "download-pdf-link","accordion","language-picker", "-sharing", "splitter", "-lunr", "-search", "search-plus", "offline", "back-to-top-button", "insert-logo"],
  	"pluginsConfig": {
+        "page-footer-ex": {
+            "copyright": "By <em>Aparksa</em>",
+            "markdown": false,
+            "update_label": "<i>updated</i>",
+            "update_format": "YYYY-MM-DD HH:mm:ss"
+        },
+
         "theme-default": {
             "showLevel": false
         },
