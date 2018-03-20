@@ -1,5 +1,5 @@
-### Bienvenue en vacances
-
+# Bienvenue en vacances
+![Terrasse](../img/terrasse.jpg "La terrasse")
 
 **Bonjour chers voyageurs !**
 

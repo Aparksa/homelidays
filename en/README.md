@@ -1,5 +1,5 @@
-###Welcome in holydays
-
+# Welcome in holydays
+![Terrasse](../img/terrasse.jpg "The terrace")
 
 **Hello dear travelers !**
 

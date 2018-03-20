@@ -1,4 +1,5 @@
 # Vie dans la maison
+![Salon](../img/salon.jpg "le salon")
 
 * les poutres peuvent craquer avec les variations de température. Cela peut être surprenant, mais tout à fait normal !
 * L'osmoseur filtre l'eau après chaque utilisation du petit robinet pour remplir son réservoir, et l'adoucisseur se déclenche seul \(en journée uniquement\) pour la filtration de l'eau de la maison. Vous entendrez peut-être alors des bruits d'eau qui coule. Cela est normal.

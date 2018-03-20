@@ -1,4 +1,5 @@
 # Living in the house
+![Living Room](../img/salon.jpg "the living-room")
 
 * the beams can crack with the variations of temperature. This can be surprising, but quite normal!
 * The osmosis unit filters the water after each use of the small faucet to fill its tank, and the softener is triggered alone \(daytime only\) for the filtration of water from the house. You may hear sounds of running water. This is also normal.

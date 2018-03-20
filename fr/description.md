@@ -1,5 +1,5 @@
-### La maison
-
+# La maison
+![House](../img/facade_sud.jpg "La Maison")
 
 ----------
 Traditionnelle de type landaise avec terrasse orientée  **sud/sud-ouest**  et jardin sur un terrain clos de 1000m2.
