@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/advices.html","55e39cf1782cb427dda407105375d8a7"],["/around.html","c6920ba0d6a4a19c7f5c667efffe73d5"],["/description.html","1d61b5914b6dff22e779c63a8bf3b48f"],["/index.html","92513f213b98adc8eb703acfcd3bfc3f"],["/instructions.html","1bd587a06f3a944d367ac98efb7cea1f"],["/inventory.html","708e2cd1f31f17f25d702905cffd55a6"],["/logo.png","e1de3cbcc3c589cbbb7b0ddaeaa65e5c"],["/manuals.html","a35e0eaeae5dbc6e4d5d7dfa7d214581"],["/styles/pdf.css","3ecd8190d60ee6ac6aa9ce912d02a033"],["/styles/website.css","034fb5c55d08830f34fb8efcb19da477"]];
+var precacheConfig = [["/advices.html","4eb65ec1ec87441fad761cfd34b395de"],["/around.html","ef7b47eeab0c26ff87494f987bf683f5"],["/description.html","9d59add0a2e89def27574b741615e0b7"],["/index.html","debabce989b9648bdadacfb451f1ef66"],["/instructions.html","e3454276628b3e4082457e578810869f"],["/inventory.html","4a36920fe616f619a564698680e38f32"],["/logo.png","e1de3cbcc3c589cbbb7b0ddaeaa65e5c"],["/manuals.html","f7a597909c48b1d6d750965a60a7d8fb"],["/styles/pdf.css","3ecd8190d60ee6ac6aa9ce912d02a033"],["/styles/website.css","034fb5c55d08830f34fb8efcb19da477"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
