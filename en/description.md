@@ -4,16 +4,16 @@
 ----------
 
 
-Traditional landaise type with south / southwest - orientated terrace and garden on a closed ground of 1000m2
+Traditional landaise type with south / southwest - orientated terrace and garden on a closed ground of 1000m<sup>2</sup>
 
 **Composition and equipment:**
 
 ### Ground Floor
 ----------
-- Adult room: 13,3M2
-  - 1 double-size bed (sofa bed)
+- Adult room: 13,3M<sup>2</sup>
+  - 1 double-size bed
   - 1 commode-baby-changing-table
-  - Children room: 12,5M2
+- Children room: 12,5M<sup>2</sup>
   - 2 bunk beds
   - 1 single bed
 - Shower room:
@@ -30,7 +30,7 @@ Traditional landaise type with south / southwest - orientated terrace and garden
   - kettle
   - coffe maker
   - osmotic water  (tap near the sink)
-- Living / Dining room: 50m2
+- Living / Dining room: 50m<sup>2</sup>
   - Sofa + low table
   - television + sound bar
   - Freebox player + game console (PS3)
@@ -41,11 +41,11 @@ Traditional landaise type with south / southwest - orientated terrace and garden
   - Dryer cupboard
   - Dryer
   - Ironing board + steam iron
-  - water softener 
+  - water softener
 - Sports room
   - Treadmills
   -  Elliptical bike
-  
+
 ### 1st Floor
 ----------
 - Mezzanine
@@ -54,17 +54,21 @@ Traditional landaise type with south / southwest - orientated terrace and garden
   - bath
   - WC
   - double washbasin
-  
-### The pool 
+- Room: 11M<sup>2</sup>
+  - 1 double-size bed
+
+### The pool
 ----------
-- Bean form 
+- Bean form
 - Dimensions: 5X8M
 - Depths: from 1,06M to 1,80M
 - Filtration
-  - Glass 
+  - Glass
   - Salt water  +  Ph-meter
   - 2 deckchairs with low square table
-  
+- Heat pomp
+- Removable fences
+
 ### The terrace
 ----------
 - Garden table with 6 armchairs
