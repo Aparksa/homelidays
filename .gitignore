@@ -2,3 +2,5 @@ node_modules
 /_book/
 gitbook
 *.html
+*.pdf
+.DS_Store

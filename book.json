@@ -1,27 +1,18 @@
 {
  	"title": "Homelidays",
-    "plugins": ["exercises","page-footer-ex","expandable-chapters-interactive","build", "gist", "download-pdf-link","accordion","language-picker", "-sharing", "splitter", "-lunr", "-search", "search-plus", "offline", "back-to-top-button", "insert-logo"],
+    "plugins": ["book-summary-scroll-position-saver","otherlink","exercises","localized-footer","expandable-chapters","build", "gist", "accordion","language-picker", "-sharing", "splitter", "-lunr", "-search", "search-plus", "offline", "back-to-top-button", "insert-logo"],
  	"pluginsConfig": {
-        "page-footer-ex": {
-            "copyright": "By <em>Aparksa</em>",
-            "markdown": false,
-            "update_label": "<i>updated</i>",
-            "update_format": "YYYY-MM-DD HH:mm:ss"
-        },
+    "localized-footer": {
+ "hline": false,
+ "filename": "../footer.md"
+},
 
         "theme-default": {
             "showLevel": false
         },
  		"insert-logo": {
- 			"url": "./logo.png" },
-        "download-pdf-link": {
-            "base": "https://www.gitbook.com/download/pdf/book/aparksa/homelidays",
-            "label": {
-                "en": "Download PDF",
-                "fr": "Télécharger en PDF"
-            },
-            "multilingual": true
-        }},
+ 			"url": "./logo.png" }
+      },
  	"styles": {
  		"website": "styles/website.css"
  	}
